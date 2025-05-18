@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="108.81936mm"
+   height="108.81936mm"
+   viewBox="0 0 108.81936 108.81936"
+   version="1.1"
+   id="svg831"
+   inkscape:export-filename="C:\Users\Professional\Figure2BG.png"
+   inkscape:export-xdpi="100"
+   inkscape:export-ydpi="100"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="figures.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview833"
+     pagecolor="#00ffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.74118967"
+     inkscape:cx="206.4249"
+     inkscape:cy="459.39658"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs828" />
+  <g
+     inkscape:label="Квадрат фон"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-48.42205,-69.126377)"
+     style="display:inline">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:8.81936;stroke-linecap:round;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect947"
+       width="100"
+       height="100"
+       x="52.83173"
+       y="73.536057"
+       rx="10"
+       ry="10"
+       inkscape:export-filename="C:\Users\Professional\Figure1Shape.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+  </g>
+  <g
+     inkscape:label="Квадрат рамка"
+     inkscape:groupmode="layer"
+     id="g1463"
+     transform="translate(-48.42205,-69.126377)"
+     style="display:none">
+    <rect
+       style="fill:none;fill-opacity:1;stroke:#666666;stroke-width:8.81936;stroke-linecap:round;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="rect1461"
+       width="100"
+       height="100"
+       x="52.83173"
+       y="73.536057"
+       rx="10"
+       ry="10"
+       inkscape:export-filename="C:\Users\Professional\Figure1Shape.png"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100" />
+  </g>
+  <g
+     inkscape:label="Треугольник рамка"
+     inkscape:groupmode="layer"
+     id="g1503"
+     transform="translate(-48.42205,-69.126377)"
+     style="display:none">
+    <path
+       sodipodi:type="star"
+       style="fill:none;fill-opacity:1;stroke:#666666;stroke-width:33.333;stroke-linecap:round;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="path1529"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="74.205025"
+       sodipodi:cy="-213.17081"
+       sodipodi:r1="170.77151"
+       sodipodi:r2="85.385757"
+       sodipodi:arg1="0.52359878"
+       sodipodi:arg2="1.5707963"
+       inkscape:rounded="0.1"
+       inkscape:randomized="0"
+       d="m 222.09749,-127.78505 c -14.78924,25.61573 -280.995689,25.61573 -295.784936,0 -14.789247,-25.61573 118.313977,-256.15727 147.892471,-256.15727 29.578495,0 162.681715,230.54154 147.892465,256.15727 z"
+       transform="matrix(0.32542681,0,0,0.30283458,78.464245,199.35361)"
+       inkscape:transform-center-y="-12.928829" />
+  </g>
+  <g
+     inkscape:label="Треугольник фон"
+     inkscape:groupmode="layer"
+     id="g1799"
+     transform="translate(-48.42205,-69.126377)"
+     style="display:none">
+    <path
+       sodipodi:type="star"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:33.333;stroke-linecap:round;stroke-opacity:1;paint-order:markers fill stroke;stop-color:#000000"
+       id="path1797"
+       inkscape:flatsided="true"
+       sodipodi:sides="3"
+       sodipodi:cx="74.205025"
+       sodipodi:cy="-213.17081"
+       sodipodi:r1="170.77151"
+       sodipodi:r2="85.385757"
+       sodipodi:arg1="0.52359878"
+       sodipodi:arg2="1.5707963"
+       inkscape:rounded="0.1"
+       inkscape:randomized="0"
+       d="m 222.09749,-127.78505 c -14.78924,25.61573 -280.995689,25.61573 -295.784936,0 -14.789247,-25.61573 118.313977,-256.15727 147.892471,-256.15727 29.578495,0 162.681715,230.54154 147.892465,256.15727 z"
+       transform="matrix(0.32542681,0,0,0.30283458,78.464245,199.35361)"
+       inkscape:transform-center-y="-12.928829" />
+  </g>
+</svg>
